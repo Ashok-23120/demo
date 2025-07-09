@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Elements</title>
+    </head>
+    <body>
+        <!--Elements in html-->
+        <h1>Hai</h1>
+    </body>
+</html>
